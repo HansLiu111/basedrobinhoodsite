@@ -2,8 +2,8 @@
 import React, { useState } from "react";
 
 const TokenAddress = () => {
-  const address = "0x694d68Bc98B9e4a585e425FE4b5C2b4Cb2CbDa3c";
-  const turncatedAddress = "0x694d...bDa3c";
+  const address = "0x9e53919d35bb54Ab9F52d12dDac8524e7D38A381c";
+  const turncatedAddress = "0x9e53....38A381";
   const [isCopied, setCopied] = useState(false);
 
   const copyText = async () => {
