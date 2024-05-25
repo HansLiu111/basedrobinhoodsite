@@ -7,7 +7,7 @@ const WebsiteLinks = () => {
   const twitter = "https://x.com/BasedRobinhood";
   const telegram = "https://t.me/+8R6h4qprVWwxMjRh";
   const dexScreener =
-    "https://dexscreener.com/base/0x694d68Bc98B9e4a585e425FE4b5C2b4Cb2CbDa3c";
+    "https://dexscreener.com/base/0x9e53919d35bb54Ab9F52d12dDac8524e7D38A381";
 
   return (
     <div className="block2__links">
